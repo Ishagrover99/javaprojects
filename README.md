@@ -1,0 +1,2 @@
+# javaprojects
+contain java projects
