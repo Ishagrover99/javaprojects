@@ -1,2 +1,2 @@
 # javaprojects
-contain java projects
+contain puzzle java project
